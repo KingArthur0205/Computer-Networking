@@ -10,3 +10,4 @@
 2. [Cable, Fiber to the Home(FTTH), Ethernet and WiFi](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch1%20Computer%20Networks%20and%20the%20Internet/%E3%80%90CN%E3%80%91Day3.pdf)
 ### 1.3 The Network Core
 1. [Packet Switching: Store and Forward Transmission, Queuing Delays and Packet Loss, and Forwarding Table and Routing Protocols](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch1%20Computer%20Networks%20and%20the%20Internet/%E3%80%90CN%E3%80%91Day4.pdf)
+2. [Circuit Switching: Time-Division Multiplexing and Frequency-Division Multiplexing](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch1%20Computer%20Networks%20and%20the%20Internet/%E3%80%90CN%E3%80%91Day5.pdf)
