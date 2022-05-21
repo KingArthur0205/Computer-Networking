@@ -12,3 +12,5 @@
 1. [Packet Switching: Store and Forward Transmission, Queuing Delays and Packet Loss, and Forwarding Table and Routing Protocols](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch1%20Computer%20Networks%20and%20the%20Internet/%E3%80%90CN%E3%80%91Day4.pdf)
 2. [Circuit Switching: Time-Division Multiplexing and Frequency-Division Multiplexing](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch1%20Computer%20Networks%20and%20the%20Internet/%E3%80%90CN%E3%80%91Day5.pdf)
 3. [Network of Networks](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch1%20Computer%20Networks%20and%20the%20Internet/%E3%80%90CN%E3%80%91Day6.pdf)
+### 1.4 Delay, Loss, and Throughput in Packet-Switched Networks
+1. [Overview of Delay, Detailed Queuing Delay and Packet Loss](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch1%20Computer%20Networks%20and%20the%20Internet/%E3%80%90CN%E3%80%91Day7.pdf)
