@@ -19,3 +19,6 @@
 1. [5 Protocol Layers](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch1%20Computer%20Networks%20and%20the%20Internet/%E3%80%90CN%E3%80%91Day9.pdf)
 ### 1.6 Network Security
 1. [Possible Attacks](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch1%20Computer%20Networks%20and%20the%20Internet/%E3%80%90CN%E3%80%91Day10.pdf)
+## Chapter 2: Application Layer
+### 2.1 Principles of Network Applications
+1. [Network Application Architecture and Process Communication](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch2%20Application%20Layer/2.1%20Principles%20of%20Network%20Applications/%E3%80%90CN%E3%80%91Day11.pdf)
