@@ -17,3 +17,5 @@
 2. [End-to-End Delay and Throughput](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch1%20Computer%20Networks%20and%20the%20Internet/%E3%80%90CN%E3%80%91Day8.pdf)
 ### 1.5 Protocol Layers and Their Services
 1. [5 Protocol Layers](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch1%20Computer%20Networks%20and%20the%20Internet/%E3%80%90CN%E3%80%91Day9.pdf)
+### 1.6 Network Security
+1. [Possible Attacks](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch1%20Computer%20Networks%20and%20the%20Internet/%E3%80%90CN%E3%80%91Day10.pdf)
