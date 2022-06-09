@@ -32,5 +32,6 @@
 5. [Web Caching](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch2%20Application%20Layer/2.2%20The%20Web%20and%20HTTP/%E3%80%90CN%E3%80%91Day15(2).pdf)
 ### 2.3 Electronic Mail in the Internet
 1. [SMTP](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch2%20Application%20Layer/2.3%20Electronic%20Mail%20in%20the%20Internet/%E3%80%90CN%E3%80%91Day16.pdf)
+2. [Mail Message Format](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch2%20Application%20Layer/2.3%20Electronic%20Mail%20in%20the%20Internet/%E3%80%90CN%E3%80%91Day17.pdf)
 ### 2.4 DNS-The Internet's Directory Service
 1. [Services of DNS and How it works](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch2%20Application%20Layer/2.4%20DNS-The%20Internet's%20Directory%20Service/%E3%80%90CN%E3%80%91Day17(2).pdf)
