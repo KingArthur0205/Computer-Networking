@@ -30,3 +30,5 @@
 3. [HTTP Request and Response Message](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch2%20Application%20Layer/2.2%20The%20Web%20and%20HTTP/%E3%80%90CN%E3%80%91Day14.pdf)
 4. [User-Client Interaction: Cookies](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch2%20Application%20Layer/2.2%20The%20Web%20and%20HTTP/%E3%80%90CN%E3%80%91Day15.pdf)
 5. [Web Caching](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch2%20Application%20Layer/2.2%20The%20Web%20and%20HTTP/%E3%80%90CN%E3%80%91Day15(2).pdf)
+### 2.3 Electronic Mail in the Internet
+1. [SMTP](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch2%20Application%20Layer/2.3%20Electronic%20Mail%20in%20the%20Internet/%E3%80%90CN%E3%80%91Day16.pdf)
