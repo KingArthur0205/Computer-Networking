@@ -38,3 +38,5 @@
 2. [DNS records and messages](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch2%20Application%20Layer/2.4%20DNS-The%20Internet's%20Directory%20Service/%E3%80%90CN%E3%80%91Day18.pdf)
 ### 2.5 Peer-to-Peer File Distribution
 1. [P2P File Distribution](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch2%20Application%20Layer/2.5%20Peer-to-Peer%20File%20Distribution/%E3%80%90CN%E3%80%91Day19.pdf)
+### 2.6 Video Streaming and Content Distribution Networks
+1. [Video Intro, HTTP Video Streaming, and DASH](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch2%20Application%20Layer/2.6%20Video%20Streaming%20and%20Content%20Distribution%20Networks/%E3%80%90CN%E3%80%91Day19(2).pdf)
