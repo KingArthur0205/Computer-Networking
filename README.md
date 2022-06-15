@@ -35,3 +35,4 @@
 2. [Mail Message Format](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch2%20Application%20Layer/2.3%20Electronic%20Mail%20in%20the%20Internet/%E3%80%90CN%E3%80%91Day17.pdf)
 ### 2.4 DNS-The Internet's Directory Service
 1. [Services of DNS and How it works](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch2%20Application%20Layer/2.4%20DNS-The%20Internet's%20Directory%20Service/%E3%80%90CN%E3%80%91Day17(2).pdf)
+2. [DNS records and messages](https://github.com/KingArthur0205/Computer-Networking/blob/main/Ch2%20Application%20Layer/2.4%20DNS-The%20Internet's%20Directory%20Service/%E3%80%90CN%E3%80%91Day18.pdf)
